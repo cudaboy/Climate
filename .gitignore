@@ -1,0 +1,12 @@
+.env
+.venv/
+.vscode/
+.hermes/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local agent/navigation files and archived notebooks
+HERMES.md
+notebooks/_archive/
